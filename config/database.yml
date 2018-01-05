@@ -31,7 +31,6 @@ production:
   <<: *default
   adapter: mysql2
   encoding: utf8
-  host: localhost
   database: checklist_prod
   username: krishna
   password: 123123
